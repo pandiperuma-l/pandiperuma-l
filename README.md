@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GIF_URL_HERE" alt="Custom GitHub Header GIF" width="100%" />
+  <img src="https://tenor.com/view/kakashi-hatake-gif-26864629" alt="Custom GitHub Header GIF" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pandi Perumal</h1>
